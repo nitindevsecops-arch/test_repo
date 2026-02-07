@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Weak / hardcoded JWT secret
 JWT_SECRET = "1234566gdfgdfgh"
 JWT_SECRET_values = "1234566gdfgdfgh"
-SECRET_values = "1234566gdfgdafgh"
+abc_values = "1234566gdfgdafgh"
 
 @app.route("/")
 def home():
