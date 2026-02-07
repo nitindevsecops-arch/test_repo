@@ -6,7 +6,7 @@ import time
 app = Flask(__name__)
 
 # Weak / hardcoded JWT secret
-JWT_SECRET = "123456"
+JWT_SECRET = "1234566gdfgdfgh"
 
 @app.route("/")
 def home():
