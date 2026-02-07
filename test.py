@@ -9,6 +9,7 @@ app = Flask(__name__)
 JWT_SECRET = "1234566gdfgdfgh"
 JWT_SECRET_values = "1234566gdfgdfgh"
 abc_values = "1234566gdfgdafgh"
+values = "1234566gdfgdafgh"
 
 @app.route("/")
 def home():
