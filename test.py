@@ -11,6 +11,7 @@ JWT_SECRET_values = "1234566gdfgdfgh"
 abc_values = "1234566gdfgdafgh"
 valukes = "1234566gdfgdafgh"
 DB_pass ="nitinaa"
+db_user ="pass"
 
 @app.route("/")
 def home():
