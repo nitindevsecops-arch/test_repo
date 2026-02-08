@@ -10,7 +10,7 @@ JWT_SECRET = "1234566gdfgdfgh"
 JWT_SECRET_values = "1234566gdfgdfgh"
 abc_values = "1234566gdfgdafgh"
 valukes = "1234566gdfgdafgh"
-DB_password ="nitin"
+DB_password ="nitina"
 
 @app.route("/")
 def home():
